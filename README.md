@@ -4,7 +4,7 @@
 
 ### **The new Custom AI name is "A Q&A Al for CNLE" and the link is https://chatglm.cn/share/F3QRE, which remains open for all researchers to use.**
 
-Additionally, we are considering combining various types of **open-source LLM**, such as **Deepseek**, with **open-source platforms** like **Lobechat, CherryStudio, and Chatbox**. We plan to use retrieval-augmented generation (RAG) and semantic search technologies to create and migrate our Custom AI specifically for the Chinese Nursing Licensing Exam in different platforms.
+Additionally, we are considering combining various types of **open-source LLMs**, such as **Deepseek**, with **open-source platforms** like **Lobechat, CherryStudio, and Chatbox**. We plan to use retrieval-augmented generation (RAG) and semantic search technologies to create and migrate our Custom AI specifically for the Chinese Nursing Licensing Exam in these different LLMs and platforms.
 
 (As an alternative solution, we will also synchronize this Custom AI in our WeChat Official Account. You can follow the WeChat Official Account and input Chinese Nursing Licensing Exam questions in its backend to receive answers from our Custom AI. **PS**: The Custom AI in the WeChat Official Account may not be available indefinitely.)
 
