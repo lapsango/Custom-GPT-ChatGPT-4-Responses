@@ -1,6 +1,7 @@
 **Our Custom GPT link:** ~~https://chatgpt.com/g/g-wQf5zfGaH-a-q-a-ai-for-chinese-nursing-licensing-exam~~
 
-#### **Due to OpenAI's policy changes, the Custom GPT link we published in our article are no longer available for researchers. We are actively addressing this issue and have now released new Custom AI on ChatGLM.** 
+#### **Due to OpenAI's policy changes, the Custom GPT link we published in our article are no longer available for researchers. We are actively addressing this issue.**  
+#### **Our new Custom GPT link: https://chatgpt.com/g/g-67bb12decb78819183cf030d7f030ee3-a-q-a-ai-for-the-chinese-nursing-licensing-exam. What's more, we have now released new Custom AI on ChatGLM.** 
 
 ### **The new Custom AI name is "A Q&A Al for CNLE" and the link is https://chatglm.cn/share/F3QRE, which remains open for all researchers to use.**
 
